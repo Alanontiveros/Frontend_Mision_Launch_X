@@ -1,10 +1,10 @@
-Frontend_Mision_Launch_X
+# Frontend_Mision_Launch_X
 
-Repositorio para alojar las practicas del programa Launch_X
+## Repositorio para alojar las practicas del programa Launch_X
 
-Semana 1 - Despegue 🚀
+### Semana 1 - Despegue 🚀
 
-Links a las practicas de la semana 1
+### Links a las practicas de la semana 1
 
 Requerimientos
 
@@ -29,7 +29,7 @@ https://github.com/Alanontiveros/Frontend_Mision_Launch_X/blob/main/Semana-1/01%
 
 
 
-Autores ✒️
+# Autores ✒️
 
 
-Alan Emmanuel Ontiveros Ramírez
+## Alan Emmanuel Ontiveros Ramírez
